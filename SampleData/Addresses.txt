@@ -1,0 +1,10 @@
+1|124|Elmrill Road|Markham|Ontario|12
+2|200|This Street|This City|This Parrish|5
+3|5|Emblem Road|Kingston|Who Knows|10
+4|800|Apple Street|Mandiville|Manchester|15
+5|9|Blue Berry Way|Montego Bay|Queensland|30
+6|12|Buju Way|Saint Elizabeth|Country|15
+7|398|Shabba Rankin Blvd|Half Way Three|Clarindon|3
+8|230|Tenor Saw Alley|Trench Town|Badlands|2
+9|53|Super Cat Avenue|Flat Bridge|Waterway|9
+10|27|Beenie Man Highway|Blue Mountain|Skyview|6
